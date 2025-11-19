@@ -1,0 +1,33 @@
+[
+  {
+    "number": "12001",
+    "name": "Shatabdi Express",
+    "source": "NDLS",
+    "destination": "BCT",
+    "departureTime": "06:00",
+    "arrivalTime": "14:30",
+    "status": "On Time",
+    "lastUpdated": "2025-08-19T08:00:00Z"
+  },
+  {
+    "number": "12951",
+    "name": "Mumbai Rajdhani",
+    "source": "BCT",
+    "destination": "NDLS",
+    "departureTime": "16:35",
+    "arrivalTime": "08:15",
+    "status": "Delayed 20m",
+    "lastUpdated": "2025-08-19T08:05:00Z"
+  },
+  {
+    "number": "12627",
+    "name": "Karnataka Express",
+    "source": "SBC",
+    "destination": "NDLS",
+    "departureTime": "19:20",
+    "arrivalTime": "10:30",
+    "status": "On Time",
+    "lastUpdated": "2025-08-19T07:50:00Z"
+  }
+]
+

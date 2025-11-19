@@ -1,0 +1,23 @@
+[
+  {
+    "id": "RF001",
+    "bookingId": "BK1001",
+    "uid": "user_abc",
+    "amount": 450.0,
+    "reason": "Train cancelled",
+    "status": "Approved",
+    "requestedAt": "2025-08-10T10:00:00Z",
+    "updatedAt": "2025-08-11T14:00:00Z"
+  },
+  {
+    "id": "RF002",
+    "bookingId": "BK1002",
+    "uid": "user_xyz",
+    "amount": 320.0,
+    "reason": "Customer cancellation",
+    "status": "Pending",
+    "requestedAt": "2025-08-15T09:30:00Z",
+    "updatedAt": "2025-08-15T09:30:00Z"
+  }
+]
+

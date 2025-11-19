@@ -1,0 +1,53 @@
+[
+  {
+    "pnr": "1234567890",
+    "trainNumber": "12951",
+    "trainName": "Mumbai Rajdhani",
+    "journeyDate": "2025-08-21",
+    "from": "BCT",
+    "to": "NDLS",
+    "passengers": [
+      {
+        "name": "Amit Kumar",
+        "age": 34,
+        "gender": "M",
+        "coach": "B1",
+        "seat": 23,
+        "berth": "Lower",
+        "bookingStatus": "CNF",
+        "currentStatus": "CNF"
+      },
+      {
+        "name": "Priya Sharma",
+        "age": 30,
+        "gender": "F",
+        "coach": "B1",
+        "seat": 24,
+        "berth": "Middle",
+        "bookingStatus": "CNF",
+        "currentStatus": "CNF"
+      }
+    ]
+  },
+  {
+    "pnr": "9876543210",
+    "trainNumber": "12001",
+    "trainName": "Shatabdi Express",
+    "journeyDate": "2025-08-19",
+    "from": "NDLS",
+    "to": "BCT",
+    "passengers": [
+      {
+        "name": "Rohan Verma",
+        "age": 28,
+        "gender": "M",
+        "coach": "C2",
+        "seat": 11,
+        "berth": "Chair",
+        "bookingStatus": "RAC 12",
+        "currentStatus": "CNF"
+      }
+    ]
+  }
+]
+

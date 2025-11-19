@@ -1,0 +1,19 @@
+[
+  {
+    "id": "GR001",
+    "uid": "user_abc",
+    "category": "Cleanliness",
+    "description": "Coach was not cleaned properly.",
+    "status": "Open",
+    "createdAt": "2025-08-12T08:20:00Z"
+  },
+  {
+    "id": "GR002",
+    "uid": "user_xyz",
+    "category": "Catering",
+    "description": "Food quality was poor.",
+    "status": "Resolved",
+    "createdAt": "2025-08-14T12:00:00Z"
+  }
+]
+

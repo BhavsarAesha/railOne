@@ -1,0 +1,23 @@
+[
+  {
+    "id": "VND001",
+    "name": "Delhi Delights",
+    "station": "NDLS",
+    "menu": [
+      { "item": "Veg Thali", "price": 180.0 },
+      { "item": "Paneer Wrap", "price": 120.0 },
+      { "item": "Masala Tea", "price": 20.0 }
+    ]
+  },
+  {
+    "id": "VND002",
+    "name": "Mumbai Munchies",
+    "station": "BCT",
+    "menu": [
+      { "item": "Vada Pav", "price": 30.0 },
+      { "item": "Chicken Biryani", "price": 220.0 },
+      { "item": "Coffee", "price": 35.0 }
+    ]
+  }
+]
+

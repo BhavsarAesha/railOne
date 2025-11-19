@@ -1,0 +1,26 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="u1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00D2A8"/>
+      <stop offset="1" stop-color="#00B488"/>
+    </linearGradient>
+    <linearGradient id="u2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#u1)"/>
+  <rect x="20" y="20" width="600" height="320" rx="18" fill="url(#u2)"/>
+  <g opacity="0.95">
+    <rect x="60" y="160" width="520" height="90" rx="20" fill="#FFFFFF"/>
+    <rect x="75" y="175" width="140" height="50" rx="12" fill="#E6FFF7"/>
+    <rect x="225" y="175" width="170" height="50" rx="12" fill="#E6FFF7"/>
+    <rect x="405" y="175" width="160" height="50" rx="12" fill="#E6FFF7"/>
+  </g>
+  <g>
+    <circle cx="110" cy="120" r="26" fill="#FFFFFF"/>
+    <path d="M98 124l12-12 12 12" stroke="#00B488" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="148" y="128" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Unreserved</text>
+  </g>
+</svg>
+
